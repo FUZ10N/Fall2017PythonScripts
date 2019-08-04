@@ -1,6 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-
+#AUTHOR: FUZ10N
+#DATE: FALL 2017
 
 #Please note that to run without errors, the path to writing the returned & gathered output needs to be customized based on your own Computer.
 #Note that the bs4 library returns occasional parsing errors when running on a Windows 8 environment. The script performs flawless on Windows 10 and Linux (Tested at least on latest Kali distro). 
